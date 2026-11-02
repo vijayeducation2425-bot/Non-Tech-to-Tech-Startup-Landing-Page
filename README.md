@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Copyright](https://img.shields.io/badge/Copyright-All_Rights_Reserved-red.svg)](#-copyright--usage-policy)
 
 A high-performance, modern, and accessible web platform designed to empower non-technical founders, educators, and traditional businesses to bridge the digital gap and transform their ideas into production-ready software solutions without the gatekeeping or confusing jargon.
 
@@ -23,7 +23,7 @@ A high-performance, modern, and accessible web platform designed to empower non-
 - [🧪 Interactive Learning Tasks](#-interactive-learning-tasks)
 - [📦 Build & Deployment](#-build--deployment)
 - [📬 Contact & Support](#-contact--support)
-- [📄 License](#-license)
+- [🔒 Copyright & Usage Policy](#-copyright--usage-policy)
 
 ---
 
@@ -216,7 +216,9 @@ Have questions, collaboration inquiries, or feedback? Get in touch directly:
 
 ---
 
-## 📄 License
+## 🔒 Copyright & Usage Policy
 
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute according to the license terms.
+All rights reserved. **Do not modify this project or use it anywhere without permission.**
+
+Unauthorized copying, redistribution, modification, public display, or commercial use of this codebase, design, or assets is strictly prohibited without explicit written permission from the author. For inquiries, please reach out via [tvijays2025@gmail.com](mailto:tvijays2025@gmail.com).
 
