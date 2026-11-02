@@ -133,10 +133,10 @@ export const ContactView: React.FC = () => {
                     Email Address
                   </h4>
                   <a
-                    href="mailto:hello@nontechtotech.com"
+                    href="mailto:tvijays2025@gmail.com"
                     className="text-sm font-semibold text-slate-900 hover:text-blue-600 transition-colors mt-0.5 block"
                   >
-                    hello@nontechtotech.com
+                    tvijays2025@gmail.com
                   </a>
                 </div>
               </div>
@@ -150,10 +150,10 @@ export const ContactView: React.FC = () => {
                     Phone Support
                   </h4>
                   <a
-                    href="tel:+15553824466"
+                    href="tel:+919567818249"
                     className="text-sm font-semibold text-slate-900 hover:text-blue-600 transition-colors mt-0.5 block"
                   >
-                    +1 (555) 382-4466
+                    +91 95678 18249
                   </a>
                 </div>
               </div>
@@ -167,7 +167,7 @@ export const ContactView: React.FC = () => {
                     Headquarters
                   </h4>
                   <p className="text-sm font-semibold text-slate-900 mt-0.5">
-                    100 Innovation Blvd, Tech District, San Francisco, CA
+                    Anjarakandy, Kannur, Kerala, India
                   </p>
                 </div>
               </div>
@@ -215,11 +215,11 @@ export const ContactView: React.FC = () => {
                 <div className="flex items-center gap-2">
                   <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-ping" />
                   <span className="text-xs font-mono font-bold text-slate-300">
-                    Map View // San Francisco Campus
+                    Map View // Kannur, Kerala
                   </span>
                 </div>
                 <span className="text-[10px] bg-slate-800 px-2 py-0.5 rounded text-cyan-400 font-mono">
-                  37.7749° N, 122.4194° W
+                  11.8596° N, 75.5015° E
                 </span>
               </div>
 
